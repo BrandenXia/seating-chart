@@ -1,6 +1,7 @@
 #include "seating_chart.h"
 
 #include <algorithm>
+#include <cmath>
 #include <filesystem>
 #include <format>
 #include <fstream>
