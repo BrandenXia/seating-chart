@@ -1,4 +1,6 @@
 .cache
 /build
+/pgo
+/profiles
 /out
 /src/6x8.h

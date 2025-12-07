@@ -1,12 +1,20 @@
+#include <csignal>
 #include <print>
 #include <random>
 
 #include "6x8.h"
 #include "seating_chart.h"
 
+void handle_signal(int) {
+  std::println("Exiting...");
+  std::exit(0);
+}
+
 constexpr auto f_lim = 1500;
 
 int main() {
+  std::signal(SIGINT, handle_signal);
+
   auto rd = std::random_device{};
   auto rng = std::mt19937{rd()};
 
