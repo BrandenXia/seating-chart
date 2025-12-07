@@ -1,0 +1,148 @@
+6 8
+
+Trish
+Trevor
+Wendall
+Zelda
+Teresa
+Wendy
+Violet
+Ted
+Timothy
+Tabitha
+Yvette
+Tammy
+Tommy
+Trina
+Victor
+Yvonne
+Thelma
+Ulysses
+Taylor
+Victoria
+Wally
+Thomas
+Vanessa
+Xavier
+Ward
+Travis
+Vicky
+Tracy
+Zoe
+Wallace
+William
+Veronica
+Trent
+Ursula
+Tanya
+Tricia
+Tim
+Yancy
+Tina
+Todd
+Tyler
+Tony
+Wayne
+Wanda
+Yolanda
+Tom
+Steven
+Stewart
+
+Trish: Thomas
+Trevor: Trish
+Wendall: 
+Zelda: 
+Teresa: Ted,Wendy
+Wendy: Taylor,Wally
+Violet: 
+Ted: Vicky
+Timothy: 
+Tabitha: Tracy
+Yvette: 
+Tammy: Ted,Zoe
+Tommy: Trevor
+Trina: Thelma,Taylor,Wally
+Victor: Thelma,Wendy,Teresa,Zelda
+Yvonne: Tony
+Thelma: Yvette
+Ulysses: Ursula
+Taylor: Victoria,Zelda
+Victoria: Ward
+Wally: 
+Thomas: 
+Vanessa: 
+Xavier: Ted,Vicky
+Ward: Trent,Ulysses,Tracy,Tabitha,Thomas
+Travis: Violet,Ward,Yvonne
+Vicky: 
+Tracy: Trina,Veronica,Yvette,Tommy
+Zoe: Trevor,Timothy,Ward
+Wallace: Trina,Tina,Yvette,Tim
+William: 
+Veronica: Ted,Vicky,Taylor,Trish
+Trent: Victoria,Wendall
+Ursula: 
+Tanya: Thelma,Wendy
+Tricia: Wendall,Trish,Tabitha
+Tim: Tyler
+Yancy: Ted,Ulysses,Wally
+Tina: Veronica
+Todd: 
+Tyler: Trish,Trina,Veronica,Thomas,Stewart
+Tony: 
+Wayne: Teresa,Ulysses,Tommy
+Wanda: 
+Yolanda: Veronica
+Tom: Tammy,Tim
+Steven: Tanya
+Stewart: Wendall
+
+Trish: Tony
+Trevor: Ted
+Wendall: Tina,Tricia,Travis
+Zelda: 
+Teresa: 
+Wendy: Veronica,Tony
+Violet: Tricia
+Ted: Wally
+Timothy: Steven
+Tabitha: Tricia,Wanda
+Yvette: Yancy,Tim
+Tammy: Yolanda
+Tommy: 
+Trina: 
+Victor: Steven,Tom
+Yvonne: 
+Thelma: Tony
+Ulysses: Zoe
+Taylor: 
+Victoria: Stewart
+Wally: Todd,Wendall
+Thomas: 
+Vanessa: Stewart
+Xavier: 
+Ward: 
+Travis: 
+Vicky: 
+Tracy: Stewart
+Zoe: Tom,Yancy
+Wallace: Trent
+William: 
+Veronica: 
+Trent: 
+Ursula: 
+Tanya: William
+Tricia: Wanda,Teresa
+Tim: 
+Yancy: Wallace,Tina
+Tina: Thelma
+Todd: Travis
+Tyler: 
+Tony: 
+Wayne: Steven,Todd
+Wanda: Tommy
+Yolanda: 
+Tom: Veronica,Tracy,Victoria
+Steven: Ward
+Stewart: 
